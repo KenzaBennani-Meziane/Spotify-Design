@@ -1,2 +1,2 @@
-# Netflix-Design
-Practicing Tailwind and designs
+# Spotify-Design
+Practicing designs with Tailwind.
