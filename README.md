@@ -1,2 +1,2 @@
-# Spotify-Design
+# Spotify Design
 Practicing designs with Tailwind.
