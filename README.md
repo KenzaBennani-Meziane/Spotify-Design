@@ -1,2 +1,2 @@
 # Spotify Design
-Practicing designs with Tailwind.
+Practicing designs by copying Spotify's design with Tailwind
